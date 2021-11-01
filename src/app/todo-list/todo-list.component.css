@@ -1,0 +1,23 @@
+ul {
+    list-style: none;
+}
+li.isCompleted {
+    text-decoration: line-through;
+}
+  
+.todo-item > * {
+margin-right: 1rem;
+}
+
+ul li {
+    float:left;
+    justify-content: center;
+}
+
+ul li p {
+    margin: 0px 50px 0px 10px
+}
+
+.right h3 {
+    text-align: center;
+}
